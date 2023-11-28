@@ -50,6 +50,7 @@ Pada tahun 2017, rata-rata jumlah pesanan per pelanggan sedikit meningkat menjad
 Pada tahun 2018, rata-rata jumlah pesanan per pelanggan tetap relatif stabil di angka 1,023. Hal ini menunjukkan bahwa pelanggan terus melakukan pembelian berulang dengan tingkat yang sama.
 
 **Insight Keseluruhan:**
+
 Platform ini mengalami pertumbuhan substansial baik dalam hal pengguna aktif maupun akuisisi pelanggan baru dari tahun 2016 hingga 2018.
 Peningkatan jumlah pelanggan yang melakukan pemesanan berulang menunjukkan adanya perbaikan dalam strategi retensi pelanggan.
 Meskipun rata-rata jumlah pesanan per pelanggan tetap relatif stabil, penting untuk fokus pada peningkatan keterlibatan pelanggan dan mendorong pembelian yang lebih sering.
